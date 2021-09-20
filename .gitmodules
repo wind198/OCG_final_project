@@ -1,3 +1,6 @@
 [submodule "OCG_final_project_BE"]
 	path = OCG_final_project_BE
 	url = https://github.com/tuanlh1908developer/OCG_final_project_BE
+[submodule "OCG_final_project_FE"]
+	path = OCG_final_project_FE
+	url = https://github.com/tuanlh1908developer/OCG_final_project_FE
